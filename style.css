@@ -1,0 +1,602 @@
+body{
+    margin: 0px;
+}
+.logo{
+    margin-left: 80px; 
+}
+
+.Ellipse-13{
+   
+    float: right;
+}
+.number{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    position: absolute;
+    top: 50px;
+    right: 500px;
+}
+.vector{
+    position: absolute;
+    top: 45px;
+    right: 595px;
+}
+.button1{
+    position: absolute;
+    top: 35px;
+    right: 200px;
+    padding-top: 12px;
+    background-color: #FA70AA;
+    height: 35px;
+    width: 200px;
+    border-radius: 50px;
+    padding-left: 15px;
+}
+.button1 a{
+    color: white;
+    text-decoration: none;
+    font-weight: 16px;
+    
+}
+.button2{
+    position: absolute;
+    top: 430px;
+    left: 90px;
+    padding-top: 12px;
+    background-color: #FA70AA;
+    height: 35px;
+    width: 200px;
+    border-radius: 50px;
+    padding-left: 15px;
+} 
+.button2 a{
+    color: white;
+    text-decoration: none;
+    font-weight: 16px;
+}
+.text1{
+    height: 162px;
+    width: 460px;
+    position: absolute;
+    top: 150px;
+    left: 90px;
+    font-weight: bold;
+}
+.text2{
+    position: absolute;
+    top: 330px;
+    left: 90px;
+    font-size: 15px;
+}
+.will{
+    border-radius: 100%;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    bottom: 85px;
+    right: 200px;
+}
+.ellipse-16{
+   position: absolute;
+   bottom: 58px;
+   right: 313px;
+   height: 74px;
+   width: 74px;
+}
+.vector2{
+ position: absolute;
+ bottom: 76px;
+ right: 327px;
+ height: 35px;
+ width: 35px;
+}
+.watch{
+    position: absolute;
+ bottom: 40px;
+ right: 290px;
+
+}
+.Rectangle4{
+    margin-top: 400px;
+    width: 100%;
+    height: 680px;
+}
+.rect1{
+  position: absolute;
+  top: 770px;
+  width: 500px;
+  left: 170px;
+}
+.rect2{
+  position: absolute;
+  top: 770px;
+  right: 170px;
+  width: 500px;
+ 
+}
+.ve1{
+    position: absolute;
+    top: 800px;
+    left: 200px;
+}
+.ve2{
+    position: absolute;
+    top: 800px;
+    left: 300px;
+}
+.ve3{
+    position: absolute;
+    top: 800px;
+    left: 225px;
+}
+.ve4{
+    position: absolute;
+    top: 800px;
+    left: 250px;
+}
+.ve5{
+    position: absolute;
+    top: 800px;
+    left: 275px;
+}
+.ktext{
+    position: absolute;
+    top: 825px;
+    left: 200px;
+   font-size: 12px;
+}
+.ktext a{
+    text-decoration: none;
+    color:rgb(0, 225, 255);
+    font-weight: bold;
+
+}
+.kpic{
+    position: absolute;
+    top: 960px;
+    left: 200px;
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+
+}
+.kname{
+    position: absolute;
+    top: 955px;
+    left: 265px;
+}
+.ve12{
+    position: absolute;
+    top: 800px;
+    right: 620px;
+}
+.ve22{
+    position: absolute;
+    top: 800px;
+    right: 595px;
+}
+.ve32{
+    position: absolute;
+    top: 800px;
+    right: 570px;
+}
+.ve42{
+    position: absolute;
+    top: 800px;
+    right: 545px;
+}
+.ve52{
+    position: absolute;
+    top: 800px;
+    right: 520px;
+}
+.htext{
+    position: absolute;
+    top: 825px;
+    right: 210px;
+    font-size: 11px;
+}
+.htext a{
+    text-decoration: none;
+    color:rgb(0, 225, 255);
+    font-weight: bold;
+}
+.hpic{
+    position: absolute;
+    top: 960px;
+    right:592px;
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+
+}
+.hname{
+    position: absolute;
+    top: 955px;
+    right:495px ;
+}
+.text6{
+    position: absolute;
+    top: 1100px;
+    left: 190px;
+    font-size: 50px;
+    font-weight: bolder;
+
+}
+.text5{
+    position: absolute;
+    top: 1270px;
+    left: 190px;
+    font-size: 13px;
+}
+.text3{
+    position: absolute;
+    top: 1354px;
+    left: 210px;
+    
+}
+.text4{
+    position: absolute;
+    top: 1354px;
+    left: 500px;
+    
+}
+.text3-vector41{
+    position: absolute;
+    top: 1367px;
+    left: 192px;
+    height: 15px;
+    width: 15px;
+
+}
+.text3-vector42{
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    top: 1397px;
+    left: 192px;
+}
+.text3-vector43{
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    top: 1427px;
+    left: 192px;
+}
+.text4-vector41{
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    top: 1397px;
+    left: 482px;
+}
+.text4-vector42{
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    top: 1427px;
+    left: 482px;
+}
+.text4-vector43{
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    top: 1367px;
+    left: 482px;
+}
+.button3{
+    position: absolute;
+    top: 1480px;
+    left: 190px;
+    padding-top: 12px;
+    background-color: #FA70AA;
+    height: 35px;
+    width: 200px;
+    border-radius: 50px;
+    padding-left: 15px;
+
+}
+.button3 a{
+    color: white;
+    text-decoration: none;
+    font-weight: 16px;
+}
+.pic{
+    position: absolute;
+    top: 1140px ;
+    right: 1px;
+    width: 500px;
+    height: 382px;
+}
+.text7{
+    margin-top: 50px;
+   text-align: center;
+   font-size: 50px;
+
+}
+.text8{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 15px;
+   
+}
+.vector5{
+   margin-left: 220px;
+}
+.vector6{
+    margin-left: 370px;
+}
+.vector7{
+    margin-left: 350px;
+}
+.text9{
+    margin-left: 150px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.text10{
+    margin-left: 150px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.text11{
+    margin-left: 180px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.rectangle18{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    height: 395px;
+    width: 790px;
+}
+.text12{
+  position:relative;
+  bottom: 390px;
+  left: 340px;
+}
+.text121{
+    position: relative;
+    bottom: 288px;
+    right: 215px;
+
+}
+.button4{
+    position: relative;
+    bottom: 250px;
+    left: 540px;
+    padding-top: 12px;
+    background-color: #FA70AA;
+    height: 35px;
+    width: 200px;
+    border-radius: 50px;
+    padding-left: 15px;
+}
+.button4 a{
+    color: white;
+    text-decoration: none;
+    font-weight: 16px;
+
+}
+.rectangle481{
+    position: relative;
+    height: 20px;
+    width: 20px;
+    bottom: 210px;
+    left: 290px; 
+}
+.rectangle482{
+    position: relative;
+     height: 20px;
+    width: 20px;
+    bottom: 210px;
+    left: 293px;
+}
+.rectangle483{
+    position: relative;
+     height: 20px;
+    width: 20px;
+    bottom: 210px;
+    left: 296px;
+}
+.rectangle484{
+    position: relative;
+     height: 20px;
+    width: 20px;
+    bottom: 210px;
+    left: 299px;
+}
+.rectangle485{
+    position: relative;
+     height: 20px;
+    width: 20px;
+    bottom: 210px;
+    left: 302px;
+}
+.rectangle486{
+    position: relative;
+     height: 20px;
+    width: 20px;
+    bottom: 210px;
+    left: 305px;
+}
+.rectangle487{
+    position: relative;
+     height: 20px;
+    width: 20px;
+    bottom: 210px;
+    left: 308px;
+}
+.rectangle491{
+    position: relative;
+     height: 20px;
+     bottom: 210px;
+    left: 311px;
+    width: 20px;
+}
+.rectangle492{
+    position: relative;
+     height: 20px;
+    width: 20px;
+    bottom: 210px;
+    left: 314px;
+}
+.rectangle493{
+    position: relative;
+     height: 20px;
+    width: 20px;
+    bottom: 210px;
+    left: 317px;
+}
+.text13{
+    position: relative;
+    bottom: 180px;
+    left: 20px;
+}
+.vector8{
+  position: relative;
+  bottom: 230px;
+  right: 690px;
+}
+.vector9{
+   position: relative;
+   bottom: 230px;
+   right: 350px;
+}
+.vector101{
+    position: relative;
+    bottom: 214px;
+    right: 288px;
+}
+.vector102{
+    position: relative;
+    bottom: 214px;
+    right: 283px;
+}
+.vector103{
+    position: relative;
+    bottom: 214px;
+    right: 279px;
+}
+.vector104{
+    position: relative;
+    bottom: 214px;
+    right: 275px;
+}
+.vector105{
+    position: relative;
+    bottom: 214px;
+    right: 269px;
+}
+.vector106{
+    position: relative;
+    bottom: 214px;
+    right: 263px;
+}
+.vector107{
+    position: relative;
+    bottom: 214px;
+    right: 258px;
+}
+.rectangle6{
+    width: 100%;
+    margin-bottom: 0%;
+    height: 1000px;
+}
+.rectangle7{
+    width: 100%;
+    margin-top: -5px;
+}
+.rectangle41{
+    width: 100%;
+}
+.a{
+    display: inline-block;
+}
+.b{
+    display: inline-block;
+}
+.c{
+    display: inline-block;
+}
+.text91{
+    margin-left: 150px;
+}
+.text101{
+    margin-left: 150px;
+}
+.text111{
+    margin-left: 180px;
+}
+.tick{
+    margin-left: 230px;
+}
+ .how{
+    position:relative;
+    bottom: 930px;
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+}
+.how1{
+    position:relative;
+    bottom: 935px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+
+
+}
+.one{
+    position: relative;
+    bottom: 1280px;
+    left: 340px;
+}
+.two{
+    position: relative;
+    bottom: 1110px;
+    left: 750px;
+}
+.three{
+    position: relative;
+    bottom: 940px;
+    left: 100px;
+}
+.four{
+    position: relative;
+    bottom: 770px;
+    left: 480px;
+}
+.vector11{
+    position: relative;
+    bottom: 1255px;
+    left: 340px;
+}
+.vector12{
+    position: relative;
+    bottom: 1100px;
+    left: 750px;
+} 
+.vector13{
+    position: relative;
+    bottom: 920px;
+    left: 100px;
+}
+.vector14{
+    position: relative;
+    bottom: 735px;
+    left: 459px;
+}
+.vector15{
+    position: relative;
+    bottom: 800px;
+    right: 100px;
+}
